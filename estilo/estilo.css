@@ -15,7 +15,7 @@ header{
     background-position: top left; 
 }
 header h1{
-    color: white;
+    color:white;
     size: 48px;
     float: right;
     position: absolute;
@@ -71,7 +71,7 @@ article{
     background-color: white;
     border-radius: 5px;
     border: 1px dotted gray;
-    box-shadow: 10px 5 px 10px gray;
+    box-shadow: 10px 5px 10px gray;
     padding: 10px;
     margin: 20px 20px;
     text-align: justify;
